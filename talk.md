@@ -62,7 +62,7 @@ Flex some FP in the real world 🦾
 
 # Frontend Stack
 
-- 99.9% Elm (500K LOC)
+- 99.9% Elm
 
 ---
 
@@ -277,6 +277,8 @@ Nothing
 > List.head [1, 2, 3]
 Just 1
 ```
+
+---
 
 [.code-highlight: 1-3]
 [.code-highlight: 1-6]
